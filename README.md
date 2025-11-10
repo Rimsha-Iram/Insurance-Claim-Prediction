@@ -19,3 +19,8 @@ Estimate medical insurance claim amounts using personal data.
 - **Age** positively influences medical costs.
 - Gender, region, and number of children have lower impact.
 - Random Forest provides better accuracy for outlier cases.
+
+## Author
+- Rimsha Iram
+- [Check Portfolio](https://www.datascienceportfol.io/rimshairamanalytics)
+- Let’s connect on [LinkedIn](https://www.linkedin.com/in/rimsha-iram-analytics)
